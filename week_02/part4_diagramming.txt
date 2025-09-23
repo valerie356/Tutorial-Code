@@ -1,0 +1,17 @@
+if more than 10 days:
+    If Are you up to date with lectures and labs:
+        Work on assignment
+    else not up to date
+        Catch up on them!
+
+else if between 7 and 1- days inclusive:
+    If started on assignemnt:
+        Great, check style
+    else havent started:
+        You should start
+
+else:
+    if on track
+        printf: got this 
+    else 
+        printf: attend help sessions
