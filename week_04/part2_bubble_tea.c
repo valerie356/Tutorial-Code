@@ -63,11 +63,12 @@ int main(void) {
     // Step 5: Update the stock after fulfilling the order
     // Step 6: print the remining inventory
     int varaibe = 0;
-
+    
+    // THESE ARE ILLEGAL!!! 
     int varaibel, variable2, variable3;
     int varaibel, variable2, variable3 = 0;
 
-    // SAFEST!
+    // SAFEST: 
     int variabel = 0;
     int variable2 = 0;
     int vairbale3 = 0;
